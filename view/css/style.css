@@ -1,0 +1,29 @@
+.styleTable{
+	background-color: #fff;
+}
+
+.marginContainer{
+	margin-top: 100px;
+	
+}
+.marginForm{
+	margin-top: 30px;
+}
+
+.marginButton{
+	margin-top: 50px;
+	margin-bottom: 30px;
+}
+
+.hideInput{
+	display: none;
+}
+
+.styleBackground{
+	background-color: #ddd;
+}
+
+.styleCard{
+	height: 11rem; width: 12rem;
+}
+
